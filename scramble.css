@@ -1,0 +1,25 @@
+  body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      .container {
+        max-width: 600px;
+        margin: auto;
+      }
+      textarea {
+        width: 100%;
+        margin-bottom: 10px;
+        height: 100px;
+      }
+      input[type="text"] {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      button {
+        padding: 10px 20px;
+        margin: 4px;
+        cursor: pointer;
+      }
+      #outputText{
+        margin: 2px;
+      }
